@@ -1,0 +1,51 @@
+question,reference_answer,student_answer,human_score
+Q1,Artificial Intelligence is the simulation of human intelligence by machines.,AI enables machines to perform tasks that normally require human intelligence.,9.0
+Q2,Machine Learning is a subset of Artificial Intelligence that learns from data.,Machine learning allows computers to learn patterns from data without explicit programming.,9.0
+Q3,Deep Learning uses neural networks with multiple hidden layers.,Deep learning relies on multi-layer neural networks to solve complex problems.,9.0
+Q4,Natural Language Processing enables computers to understand and process human language.,NLP helps computers understand and work with human language.,9.0
+Q5,Computer Vision enables machines to interpret and analyze images.,Computer vision allows computers to recognize and understand images.,8.5
+Q6,Supervised learning requires labeled training data.,Supervised learning uses labeled datasets for training.,9.0
+Q7,Unsupervised learning finds hidden patterns in unlabeled data.,Unsupervised learning discovers patterns without labeled examples.,8.5
+Q8,Reinforcement Learning learns by interacting with an environment using rewards.,Reinforcement learning improves through rewards and penalties.,8.5
+Q9,A neural network consists of interconnected artificial neurons.,Neural networks are made up of connected artificial neurons.,9.0
+Q10,Overfitting occurs when a model performs well on training data but poorly on new data.,Overfitting means the model memorizes training data and fails to generalize.,9.0
+Q11,Underfitting occurs when a model cannot capture the underlying pattern in data.,Underfitting happens when the model is too simple to learn the data.,8.5
+Q12,Tokenization is the process of splitting text into smaller units called tokens.,Tokenization divides text into words or tokens.,9.0
+Q13,Stemming reduces words to their root form.,Stemming removes suffixes to obtain the root word.,8.5
+Q14,Lemmatization converts words into their dictionary base form.,Lemmatization returns the meaningful base form of a word.,9.0
+Q15,Stop words are common words that are often removed during text preprocessing.,Stop words like 'the' and 'is' are usually removed from text.,8.5
+Q16,TF-IDF measures the importance of a word in a document.,TF-IDF assigns higher weights to important words in documents.,9.0
+Q17,Word embeddings represent words as dense numerical vectors.,Word embeddings convert words into meaningful vector representations.,9.0
+Q18,Word2Vec learns vector representations of words from context.,Word2Vec creates word vectors based on surrounding words.,8.5
+Q19,BERT is a transformer model designed for understanding language context.,BERT understands text using bidirectional context.,9.0
+Q20,GPT is a transformer model used for generating human-like text.,GPT generates text using transformer architecture.,9.0
+Q21,Transformers use self-attention mechanisms to process sequences.,Transformers rely on self-attention to understand sequences.,9.0
+Q22,Self-attention helps a model focus on important words in a sentence.,Self-attention lets models identify relevant words in context.,8.5
+Q23,Precision measures the proportion of correct positive predictions.,Precision tells how many predicted positives are actually correct.,9.0
+Q24,Recall measures the proportion of actual positives correctly identified.,Recall measures how many real positives are found.,9.0
+Q25,F1-score is the harmonic mean of precision and recall.,F1-score balances precision and recall.,9.0
+Q26,Accuracy measures the proportion of correct predictions.,Accuracy is the percentage of correct predictions made by a model.,9.0
+Q27,A confusion matrix summarizes classification performance.,A confusion matrix shows correct and incorrect predictions.,8.5
+Q28,Cross-validation evaluates model performance using multiple data splits.,Cross-validation tests a model on several train-test splits.,9.0
+Q29,Gradient descent is used to minimize the loss function.,Gradient descent updates parameters to reduce error.,9.0
+Q30,An epoch is one complete pass through the training dataset.,One epoch means the model has seen the entire dataset once.,8.5
+Q31,A batch is a subset of training data processed together.,A batch contains part of the training data processed at once.,8.5
+Q32,Learning rate controls the size of parameter updates during training.,Learning rate determines how much weights change each step.,9.0
+Q33,Activation functions introduce non-linearity into neural networks.,Activation functions help neural networks learn complex patterns.,9.0
+Q34,ReLU returns zero for negative inputs and the input itself for positive values.,ReLU outputs zero for negatives and keeps positive values unchanged.,8.5
+Q35,Softmax converts model outputs into probability distributions.,Softmax transforms outputs into class probabilities.,9.0
+Q36,Dropout reduces overfitting by randomly disabling neurons during training.,Dropout prevents overfitting by randomly turning off neurons.,9.0
+Q37,Convolutional Neural Networks are widely used for image recognition.,CNNs are commonly used for image classification tasks.,9.0
+Q38,Recurrent Neural Networks process sequential data using previous information.,RNNs remember previous inputs while processing sequences.,8.5
+Q39,LSTMs solve the vanishing gradient problem in recurrent networks.,LSTMs improve long-term memory in sequence models.,9.0
+Q40,Sequence-to-sequence models are used for machine translation.,Seq2Seq models translate text from one language to another.,8.5
+Q41,"Named Entity Recognition identifies names of people, places, and organizations.",NER detects entities such as people and locations in text.,9.0
+Q42,Sentiment analysis determines whether text expresses positive or negative opinions.,Sentiment analysis identifies emotions or opinions in text.,9.0
+Q43,Part-of-speech tagging assigns grammatical labels to words.,POS tagging identifies nouns verbs adjectives and other word types.,9.0
+Q44,Chatbots use NLP techniques to communicate with users.,Chatbots understand and respond using natural language processing.,8.5
+Q45,Speech recognition converts spoken language into text.,Speech recognition changes voice input into written text.,9.0
+Q46,Feature engineering involves creating useful input variables for machine learning.,Feature engineering improves model performance by designing better features.,8.5
+Q47,Data preprocessing includes cleaning transforming and preparing data for analysis.,Data preprocessing cleans and prepares data before training.,9.0
+Q48,Big data refers to datasets that are too large for traditional processing methods.,Big data consists of massive datasets requiring specialized tools.,8.5
+Q49,Cloud computing provides computing resources over the internet.,Cloud computing delivers storage and computing services online.,9.0
+Q50,Ethical AI focuses on fairness transparency accountability and responsible use of artificial intelligence.,Ethical AI promotes fair transparent and responsible AI systems.,9.0

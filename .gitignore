@@ -1,0 +1,11 @@
+# Cache & Environments
+__pycache__/
+.venv/
+.vscode/
+
+# Compiled Python
+*.pyc
+*.pyo
+
+# Local logs
+*.log
